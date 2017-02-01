@@ -9,15 +9,13 @@ html{
 }
 
 .container {
-  position: relative;
+
   overflow: auto;
   display:inline-block;
   margin-left: 1%;
   margin-right: 1%;
-  padding:  1% 1%;
-  text-align:center
-  border: 1px solid red
-
+  padding:  3% 1%;
+  text-align:center;
 }
 
 
